@@ -1,0 +1,27 @@
+.Form{
+    flex-direction: column;
+    display: flex;
+    /* width: 30%; */
+    /* height: 60%; */
+    gap: 15px;
+    padding: 10px;
+}
+.BMI{
+    /* border: 2px solid black; */
+    width: 30%;
+    justify-content: center;
+    margin: 16px auto;
+    background-color: aliceblue;
+    padding-left: 10px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
+}
+button{
+    background-color: rgb(95, 95, 255);
+    color: white;
+    border: none;
+    font-size: 20px;
+    
+}
+button:hover{
+    cursor: pointer;
+}
